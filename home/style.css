@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-icon{
+    width: 40px;
+    height: auto;
+}
+
+.nav-item{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav{
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
